@@ -1,10 +1,10 @@
-🎧 Spotify Top 50 Global — Power BI Analytics Dashboard
+# 🎧 Spotify Top 50 Global — Power BI Analytics Dashboard
 
 An end-to-end Power BI data analytics project analyzing Spotify Global Top 50 songs using interactive dashboards, feature engineering, and data storytelling.
 
 This report explores song performance, artist impact, popularity trends, and listening behavior patterns using business intelligence and data science–inspired visualizations.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This dashboard answers key music analytics questions:
 
@@ -20,7 +20,7 @@ This dashboard answers key music analytics questions:
 
 -> How does popularity change over time?
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 -> Power BI Desktop
 
@@ -32,9 +32,9 @@ This dashboard answers key music analytics questions:
 
 -> Data Visualization & Storytelling
 
-📊 Dashboard Pages
+## 📊 Dashboard Pages
 
-🏠 Home Page
+### 🏠 Home Page
 
 Landing page with branding and navigation across report sections.
 
@@ -46,7 +46,7 @@ Features:
 
 -> Background storytelling design
 
-📈 Overview Page — High Level Performance Metrics
+### 📈 Overview Page — High Level Performance Metrics
 
 Provides overall dataset insights and macro trends.
 
@@ -68,7 +68,7 @@ Key Visuals:
 
 -> Monthly Song Distribution
 
-🎤 Artists Page — Artist Performance Analytics
+### 🎤 Artists Page — Artist Performance Analytics
 
 Focuses on artist-level success patterns and performance strategy.
 
@@ -90,7 +90,7 @@ Insights Generated:
 
 -> Artist engagement trends over time
 
-🎵 Songs Page — Song Level Behavioral Analysis
+### 🎵 Songs Page — Song Level Behavioral Analysis
 
 Deep dive into track-level performance and listener behavior patterns.
 
@@ -120,7 +120,7 @@ Insights Generated:
 
 -> Hit concentration across songs
 
-🧠 Key Data Engineering & Analytics Techniques
+## 🧠 Key Data Engineering & Analytics Techniques
 
 Feature Engineering:
 
@@ -148,7 +148,7 @@ Examples:
 
 -> Position 1 Hit Count
 
-📈 Business & Product Insights
+## 📈 Business & Product Insights
 
 -> Medium-length tracks show strong popularity balance
 
@@ -158,7 +158,7 @@ Examples:
 
 -> Explicit content shows varying popularity impact by artist and time
 
-🚀 How to Use
+## 🚀 How to Use
 
 1. Download the .pbix file
 
@@ -166,6 +166,6 @@ Examples:
 
 3. Interact with filters, slicers, and visuals
 
-👤 Author
+## 👤 Author
 
 Jayanth Kumar
