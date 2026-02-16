@@ -159,7 +159,7 @@ Examples:
 ### 👨‍🎤 Artists Page
 ![Dashboard](Screenshots/ArtistsPage.png)
 
-### 🎵 Artists Page
+### 🎵 Songs Page
 ![Dashboard](Screenshots/SongsPage.png)
 
 ## 📈 Business & Product Insights
