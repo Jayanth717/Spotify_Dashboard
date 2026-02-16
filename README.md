@@ -148,6 +148,20 @@ Examples:
 
 -> Position 1 Hit Count
 
+## 📸 Dashboard Preview
+
+### 🏠 Home Page
+![Home Page](Screenshots/HomePage.png)
+
+### 🎤 Overview Page
+![Audio Interview](Screenshots/OverviewPage.png)
+
+### 👨‍🎤 Artists Page
+![Dashboard](Screenshots/ArtistsPage.png)
+
+### 🎵 Artists Page
+![Dashboard](Screenshots/SongsPage.png)
+
 ## 📈 Business & Product Insights
 
 -> Medium-length tracks show strong popularity balance
